@@ -21,8 +21,8 @@ Built a production-grade NLP platform for airline sentiment classification, comb
 Designed and deployed an end-to-end data engineering pipeline and Streamlit dashboard for Psi Eta Mu's alumni network, automating ETL from Google Sheets into a secured Supabase PostgreSQL database with real-time geographic and career analytics for member outreach.
 
 ## More Projects:
-#### - [Star Data Explorer (R)]()
-#### - [DSDG Data Analytics Curriculum (Excel, Tableau, SQL)]()
+#### - [Star Data Explorer (R)](https://github.com/Zahi-Rahman/Star-Data-Explorer)
+#### - [DSDG Data Analytics Curriculum (Excel, Tableau, SQL)](https://github.com/Zahi-Rahman/DSDG-Data-Analytics-Branch)
 
 ## Let's Connect
 
